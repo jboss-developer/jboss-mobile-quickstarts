@@ -45,7 +45,7 @@ ContactService End Points
 ```
 
 ### Find a contact by it's ID.
-#### /rest/contacts/\<id>
+#### /rest/contacts/{id}
 * Request type: GET
 * Return type: JSON
 * Response example:

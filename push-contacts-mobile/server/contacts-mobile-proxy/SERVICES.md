@@ -45,7 +45,7 @@ MemberService End Points
 ```
 
 ### Find a member by it's ID.
-#### /rest/members/\<id>
+#### /rest/members/{id}
 * Request type: GET
 * Return type: JSON
 * Response example:
